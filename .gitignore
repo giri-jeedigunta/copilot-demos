@@ -1,0 +1,13 @@
+node_modules/
+npm-debug.log
+.DS_Store
+.idea
+.npmrc
+yarn-error.log
+package-lock.json
+.parcel-cache
+linked_modules
+storybook-static
+**/scratch/
+dist/
+.next
